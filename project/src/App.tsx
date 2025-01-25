@@ -35,7 +35,7 @@ function App() {
           <div className="relative">
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full border-4 border-white bg-white shadow-lg mx-auto overflow-hidden">
               <img
-                src="project\image\WhatsApp Image 2024-11-30 at 21.28.41_e93ab745.jpg"
+                src="image\WhatsApp Image 2024-11-30 at 21.28.41_e93ab745.jpg"
                 alt="Professional Portrait"
                 className="w-full h-full object-cover"
               />
